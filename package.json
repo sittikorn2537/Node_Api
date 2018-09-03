@@ -1,0 +1,22 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "Shortener URL Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.7.0",
+    "date-and-time": "^0.6.2",
+    "express": "3.x",
+    "md5": "^2.2.1",
+    "mysql": "*",
+    "nodemailer": "^4.6.7",
+    "randomstring": "^1.1.5",
+    "request": "*",
+    "socket.io": "^2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanut Leelaprasert",
+  "license": "ISC"
+}
